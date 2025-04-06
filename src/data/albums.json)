@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "title": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "year": 2015,
+    "label": "Top Dawg/Aftermath/Interscope",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/9/9e/To_Pimp_a_Butterfly.jpeg",
+    "links": {
+      "spotify": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP",
+      "youtube": "https://www.youtube.com/watch?v=hRK7PVJFbS8"
+    },
+    "description": "A landmark in hip-hop, weaving jazz, funk, soul and hard-hitting social commentary."
+  },
+  {
+    "id": "2",
+    "title": "Discovery",
+    "artist": "Daft Punk",
+    "year": 2001,
+    "label": "Virgin",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/a/ae/Daft_Punk_-_Discovery.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
+      "youtube": "https://www.youtube.com/watch?v=FGBhQbmPwH8"
+    },
+    "description": "A glittering blend of house, disco, electro and nostalgia. A futuristic classic."
+  }
+]
